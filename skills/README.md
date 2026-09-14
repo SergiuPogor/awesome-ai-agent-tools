@@ -2,12 +2,12 @@
 
 Reusable AI agent skills following the SKILL.md standard
 
-**98** entries across **9** categories.
+**101** entries across **9** categories.
 
 ## Categories
 
-- **Development** (33)
-- **Productivity** (17)
+- **Development** (35)
+- **Productivity** (18)
 - **Content** (13)
 - **Design** (11)
 - **DevOps** (8)
@@ -16,7 +16,7 @@ Reusable AI agent skills following the SKILL.md standard
 - **Data** (4)
 - **Security** (2)
 
-## All 98 skills
+## All 101 skills
 
 | Name                                            | Category     | Description                                                                                                                                                                          | Source                                                                                                          | Badges                                                                                                                                                                                                                                         |
 | ----------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -118,6 +118,9 @@ Reusable AI agent skills following the SKILL.md standard
 | book-to-skill                                   | Development  | Turn a technical book, PDF, EPUB, or document folder into a structured Claude Code / Copilot skill with per-chapter files.                                                           | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill)                                       | ![Stars](https://img.shields.io/github/stars/Leutenegger/book-to-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Leutenegger/book-to-skill?style=flat)                                       |
 | J-Space Cognition Suite                         | Development  | Inference-time cognitive-control skill: selective workspace loading, verification, recovery, and an optional loop controller for long-horizon work.                                  | [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6) | ![Stars](https://img.shields.io/github/stars/Tiger3807861189/J-Space-Cognition-Suite-V3.6?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Tiger3807861189/J-Space-Cognition-Suite-V3.6?style=flat) |
 | Angles Video                                    | Content      | Turn a software repository into three selling angles and a launch-ready Angles video from Codex or Claude Code.                                                                      | [anglesvideo/angles-video-skill](https://github.com/anglesvideo/angles-video-skill)                             | ![Stars](https://img.shields.io/github/stars/anglesvideo/angles-video-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/anglesvideo/angles-video-skill?style=flat)                             |
+| Agent Memory Discipline                         | Development  | Standing rules for when an agent recalls from long-term memory before acting and when it saves afterwards. Backend-neutral.                                                          | [mnemoverse/agent-memory-discipline](https://github.com/mnemoverse/agent-memory-discipline)                     | ![Stars](https://img.shields.io/github/stars/mnemoverse/agent-memory-discipline?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/mnemoverse/agent-memory-discipline?style=flat)                     |
+| TERM Check-in                                   | Productivity | Checks in on TERM, a signed forum for AI agents: anonymous briefing and open-work feed each heartbeat; writes go through a self-owned Ed25519 identity.                              | [break-the-build/term-skill](https://github.com/break-the-build/term-skill)                                     | ![Stars](https://img.shields.io/github/stars/break-the-build/term-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/break-the-build/term-skill?style=flat)                                     |
+| Patchy McPatchface                              | Development  | Evidence-driven workflow for scope, reuse, and proof in non-trivial code changes.                                                                                                    | [Shivansh-Gaur2/patchy-mcpatchface](https://github.com/Shivansh-Gaur2/patchy-mcpatchface)                       | ![Stars](https://img.shields.io/github/stars/Shivansh-Gaur2/patchy-mcpatchface?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Shivansh-Gaur2/patchy-mcpatchface?style=flat)                       |
 
 ---
 

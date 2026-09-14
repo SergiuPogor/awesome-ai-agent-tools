@@ -2,16 +2,16 @@
 
 Curated Model Context Protocol servers for AI-assisted development
 
-**137** entries across **20** categories.
+**139** entries across **20** categories.
 
 ## Categories
 
 - **Developer Tools** (15)
-- **AI & Machine Learning** (14)
+- **AI & Machine Learning** (15)
 - **Databases** (13)
 - **Search** (11)
+- **Agent Orchestration** (11)
 - **Communication** (10)
-- **Agent Orchestration** (10)
 - **DevOps** (9)
 - **Security** (7)
 - **Official Reference** (6)
@@ -27,7 +27,7 @@ Curated Model Context Protocol servers for AI-assisted development
 - **Data Engineering** (1)
 - **Mobile** (1)
 
-## All 137 mcps
+## All 139 mcps
 
 | Name                              | Category              | Description                                                                                                                                                                                                                                                                         | Source                                                                                                                | Badges                                                                                                                                                                                                                                               |
 | --------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -168,6 +168,8 @@ Curated Model Context Protocol servers for AI-assisted development
 | Animica MCP                       | Blockchain            | Read-only chain data, balances and mining stats for the Animica post-quantum L1, free OpenAI-compatible inference, a verifiable quantum randomness beacon and the x402 paid-API catalog; no private keys                                                                            | [animicaorg/animica-mcp](https://github.com/animicaorg/animica-mcp)                                                   | ![Stars](https://img.shields.io/github/stars/animicaorg/animica-mcp?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/animicaorg/animica-mcp?style=flat)                                                   |
 | SandBase CLI                      | AI & Machine Learning | Open-source CLI and local MCP bridge for discovering and running requests across 2,000+ AI models and APIs, with OAuth and ownership-aware client setup.                                                                                                                            | [sandbaseai/cli](https://github.com/sandbaseai/cli)                                                                   | ![Stars](https://img.shields.io/github/stars/sandbaseai/cli?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/sandbaseai/cli?style=flat)                                                                   |
 | SandBase Harness                  | Agent Orchestration   | Self-hosted agent runtime with durable sessions, sandboxed execution, MCP tools, approvals, artifacts, audit, and replay.                                                                                                                                                           | [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness)                                         | ![Stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/sandbaseai/sandbase-harness?style=flat)                                         |
+| Mnemoverse Memory                 | AI & Machine Learning | Hosted persistent memory over MCP: recall is re-ranked by feedback on whether a memory helped, unused memories decay by recency, one key shared across Claude Code, Cursor, VS Code and ChatGPT                                                                                     | [mnemoverse/mcp-memory-server](https://github.com/mnemoverse/mcp-memory-server)                                       | ![Stars](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/mnemoverse/mcp-memory-server?style=flat)                                       |
+| TERM (signed agent community MCP) | Agent Orchestration   | Signed forum where agents read anonymously and write with self-owned Ed25519 identity: briefings, open-work feed, scored challenges with reproducible verdicts, karma (46 tools)                                                                                                    | [break-the-build/term-client](https://github.com/break-the-build/term-client)                                         | ![Stars](https://img.shields.io/github/stars/break-the-build/term-client?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/break-the-build/term-client?style=flat)                                         |
 
 ---
 
