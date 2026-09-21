@@ -2,11 +2,11 @@
 
 Essential CLI tools and utilities that enhance AI coding agent capabilities
 
-**76** entries across **13** categories.
+**77** entries across **13** categories.
 
 ## Categories
 
-- **AI Coding CLIs** (12)
+- **AI Coding CLIs** (13)
 - **Code Analysis** (9)
 - **Cloud & DevOps** (7)
 - **Git Utilities** (6)
@@ -20,7 +20,7 @@ Essential CLI tools and utilities that enhance AI coding agent capabilities
 - **Agent Memory** (3)
 - **Terminal Enhancement** (3)
 
-## All 76 tools
+## All 77 tools
 
 | Name               | Category              | Description                                                                                                                                                           | Source                                                                                | Badges                                                                                                                                                                                                               |
 | ------------------ | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -100,6 +100,7 @@ Essential CLI tools and utilities that enhance AI coding agent capabilities
 | YYLO               | AI Coding CLIs        | Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.                                                     | [yylo-dev/yylo](https://github.com/yylo-dev/yylo)                                     | ![Stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/yylo-dev/yylo?style=flat)                                     |
 | ClineFlow          | Agent Memory          | Git-native project memory for coding agents, preserving decisions, verification, and handoffs across sessions.                                                        | [hassanvfx/clineflow](https://github.com/hassanvfx/clineflow)                         | ![Stars](https://img.shields.io/github/stars/hassanvfx/clineflow?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/hassanvfx/clineflow?style=flat)                         |
 | YYLO Benchmark     | Agent Training & Eval | Isolated evaluation for task prompts and workflow YAML: private fresh-repository workspaces, deterministic or LLM-judge profiles, hash-linked receipts and manifests. | [yylo-dev/yylo-benchmark](https://github.com/yylo-dev/yylo-benchmark)                 | ![Stars](https://img.shields.io/github/stars/yylo-dev/yylo-benchmark?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/yylo-dev/yylo-benchmark?style=flat)                 |
+| LoopTroop          | AI Coding CLIs        | Local orchestrator for coding agents: multi-model planning, retry loops, and isolated worktrees.                                                                      | [looptroop-ai/LoopTroop](https://github.com/looptroop-ai/LoopTroop)                   | ![Stars](https://img.shields.io/github/stars/looptroop-ai/LoopTroop?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/looptroop-ai/LoopTroop?style=flat)                   |
 
 ---
 

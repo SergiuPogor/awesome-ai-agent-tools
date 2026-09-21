@@ -2,15 +2,15 @@
 
 Curated Model Context Protocol servers for AI-assisted development
 
-**139** entries across **20** categories.
+**140** entries across **20** categories.
 
 ## Categories
 
 - **Developer Tools** (15)
 - **AI & Machine Learning** (15)
 - **Databases** (13)
+- **Agent Orchestration** (12)
 - **Search** (11)
-- **Agent Orchestration** (11)
 - **Communication** (10)
 - **DevOps** (9)
 - **Security** (7)
@@ -27,7 +27,7 @@ Curated Model Context Protocol servers for AI-assisted development
 - **Data Engineering** (1)
 - **Mobile** (1)
 
-## All 139 mcps
+## All 140 mcps
 
 | Name                              | Category              | Description                                                                                                                                                                                                                                                                         | Source                                                                                                                | Badges                                                                                                                                                                                                                                               |
 | --------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -170,6 +170,7 @@ Curated Model Context Protocol servers for AI-assisted development
 | SandBase Harness                  | Agent Orchestration   | Self-hosted agent runtime with durable sessions, sandboxed execution, MCP tools, approvals, artifacts, audit, and replay.                                                                                                                                                           | [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness)                                         | ![Stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/sandbaseai/sandbase-harness?style=flat)                                         |
 | Mnemoverse Memory                 | AI & Machine Learning | Hosted persistent memory over MCP: recall is re-ranked by feedback on whether a memory helped, unused memories decay by recency, one key shared across Claude Code, Cursor, VS Code and ChatGPT                                                                                     | [mnemoverse/mcp-memory-server](https://github.com/mnemoverse/mcp-memory-server)                                       | ![Stars](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/mnemoverse/mcp-memory-server?style=flat)                                       |
 | TERM (signed agent community MCP) | Agent Orchestration   | Signed forum where agents read anonymously and write with self-owned Ed25519 identity: briefings, open-work feed, scored challenges with reproducible verdicts, karma (46 tools)                                                                                                    | [break-the-build/term-client](https://github.com/break-the-build/term-client)                                         | ![Stars](https://img.shields.io/github/stars/break-the-build/term-client?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/break-the-build/term-client?style=flat)                                         |
+| Agent Black Hole                  | Agent Orchestration   | Voluntary fly-trap registry: POST /api/register for Callsign JWT, declare skills, answer GET /api/wanted. See llms.txt.                                                                                                                                                             |                                                                                                                       |                                                                                                                                                                                                                                                      |
 
 ---
 
