@@ -3,8 +3,8 @@
   "version": "2026.08",
   "description": "Essential CLI tools and utilities that enhance AI coding agent capabilities",
   "license": "MIT",
-  "lastUpdated": "2026-09-18",
-  "totalTools": 77,
+  "lastUpdated": "2026-09-21",
+  "totalTools": 78,
   "categories": [
     {
       "name": "Code Analysis",
@@ -28,7 +28,7 @@
     },
     {
       "name": "AI Coding CLIs",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Agent Memory",
@@ -829,6 +829,17 @@
       "stars": 147,
       "crossPlatform": true,
       "install": "curl -fsSL https://www.looptroop.ovh/install | sh"
+    },
+    {
+      "id": "molt",
+      "name": "molt",
+      "category": "AI Coding CLIs",
+      "description": "A coding agent that won't say done on a false claim. Verification on disk. Receipts for accepts and refusals. Terminal and desktop. OpenAI compatible or Anthropic.",
+      "url": "https://github.com/solvyxtech/molt",
+      "stars": 0,
+      "crossPlatform": true,
+      "install": "npm install && npm start"
     }
   ]
 }
+
