@@ -2,7 +2,7 @@
 
 Reusable AI agent skills following the SKILL.md standard
 
-**101** entries across **9** categories.
+**102** entries across **9** categories.
 
 ## Categories
 
@@ -12,11 +12,11 @@ Reusable AI agent skills following the SKILL.md standard
 - **Design** (11)
 - **DevOps** (8)
 - **Marketing** (6)
+- **Data** (5)
 - **Testing** (4)
-- **Data** (4)
 - **Security** (2)
 
-## All 101 skills
+## All 102 skills
 
 | Name                                            | Category     | Description                                                                                                                                                                          | Source                                                                                                          | Badges                                                                                                                                                                                                                                         |
 | ----------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -113,6 +113,7 @@ Reusable AI agent skills following the SKILL.md standard
 | AI Music                                        | Content      | Generate vocal songs, instrumentals, jingles, and multilingual covers via the RunComfy CLI with model selection from user intent.                                                    | [prime-skills/runcomfy-agent-skills](https://github.com/prime-skills/runcomfy-agent-skills)                     | ![Stars](https://img.shields.io/github/stars/prime-skills/runcomfy-agent-skills?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/prime-skills/runcomfy-agent-skills?style=flat)                     |
 | Motion Design                                   | Design       | Universal motion-design principles for agents: timing, easing, Disney-adapted UI principles, choreography, and animation quality checks.                                             | [LottieFiles/motion-design-skill](https://github.com/LottieFiles/motion-design-skill)                           | ![Stars](https://img.shields.io/github/stars/LottieFiles/motion-design-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/LottieFiles/motion-design-skill?style=flat)                           |
 | Last30Days Skill                                | Data         | Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesize a recency-scored brief. Companion skill to Last30Days MCP.                                | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)                                       | ![Stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/mvanhorn/last30days-skill?style=flat)                                       |
+| Proof Random Free Beacon                        | Data         | Fetches a drand quicknet beacon and verifies it client-side before sampling an integer. Free relay, not a VRF.                                                                       | [kepler-ops-maker/proof-random-api](https://github.com/kepler-ops-maker/proof-random-api)                       | ![Stars](https://img.shields.io/github/stars/kepler-ops-maker/proof-random-api?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/kepler-ops-maker/proof-random-api?style=flat)                       |
 | QUALITY.md                                      | Testing      | Open format, agent skill, and CLI for engineering quality loops: define QUALITY.md, evaluate, act, and continuously improve.                                                         | [qualitymd/quality.md](https://github.com/qualitymd/quality.md)                                                 | ![Stars](https://img.shields.io/github/stars/qualitymd/quality.md?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/qualitymd/quality.md?style=flat)                                                 |
 | video-shotcraft                                 | Content      | Cinematic product-video skill for Claude Code and Codex: 152 shot recipes, 209 motion previews, and a Remotion production template.                                                  | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)                             | ![Stars](https://img.shields.io/github/stars/Vincentwei1021/video-shotcraft?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Vincentwei1021/video-shotcraft?style=flat)                             |
 | book-to-skill                                   | Development  | Turn a technical book, PDF, EPUB, or document folder into a structured Claude Code / Copilot skill with per-chapter files.                                                           | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill)                                       | ![Stars](https://img.shields.io/github/stars/Leutenegger/book-to-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Leutenegger/book-to-skill?style=flat)                                       |

@@ -2,11 +2,11 @@
 
 Essential CLI tools and utilities that enhance AI coding agent capabilities
 
-**77** entries across **13** categories.
+**80** entries across **14** categories.
 
 ## Categories
 
-- **AI Coding CLIs** (13)
+- **AI Coding CLIs** (15)
 - **Code Analysis** (9)
 - **Cloud & DevOps** (7)
 - **Git Utilities** (6)
@@ -19,8 +19,9 @@ Essential CLI tools and utilities that enhance AI coding agent capabilities
 - **Monitoring** (4)
 - **Agent Memory** (3)
 - **Terminal Enhancement** (3)
+- **AI APIs** (1)
 
-## All 77 tools
+## All 80 tools
 
 | Name               | Category              | Description                                                                                                                                                           | Source                                                                                | Badges                                                                                                                                                                                                               |
 | ------------------ | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,6 +102,9 @@ Essential CLI tools and utilities that enhance AI coding agent capabilities
 | ClineFlow          | Agent Memory          | Git-native project memory for coding agents, preserving decisions, verification, and handoffs across sessions.                                                        | [hassanvfx/clineflow](https://github.com/hassanvfx/clineflow)                         | ![Stars](https://img.shields.io/github/stars/hassanvfx/clineflow?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/hassanvfx/clineflow?style=flat)                         |
 | YYLO Benchmark     | Agent Training & Eval | Isolated evaluation for task prompts and workflow YAML: private fresh-repository workspaces, deterministic or LLM-judge profiles, hash-linked receipts and manifests. | [yylo-dev/yylo-benchmark](https://github.com/yylo-dev/yylo-benchmark)                 | ![Stars](https://img.shields.io/github/stars/yylo-dev/yylo-benchmark?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/yylo-dev/yylo-benchmark?style=flat)                 |
 | LoopTroop          | AI Coding CLIs        | Local orchestrator for coding agents: multi-model planning, retry loops, and isolated worktrees.                                                                      | [looptroop-ai/LoopTroop](https://github.com/looptroop-ai/LoopTroop)                   | ![Stars](https://img.shields.io/github/stars/looptroop-ai/LoopTroop?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/looptroop-ai/LoopTroop?style=flat)                   |
+| molt               | AI Coding CLIs        | A coding agent that won't say done on a false claim. Verification on disk. Receipts for accepts and refusals. Terminal and desktop. OpenAI compatible or Anthropic.   | [solvyxtech/molt](https://github.com/solvyxtech/molt)                                 | ![Stars](https://img.shields.io/github/stars/solvyxtech/molt?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/solvyxtech/molt?style=flat)                                 |
+| ghostget           | AI Coding CLIs        | Named web actions for AI agents: read a page, archive one media item, or use a connected account, without credentials or a browser.                                   | [hraness/ghostget](https://github.com/hraness/ghostget)                               | ![Stars](https://img.shields.io/github/stars/hraness/ghostget?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/hraness/ghostget?style=flat)                               |
+| APIClaw            | AI APIs               | Flat-rate OpenAI-compatible AI API for multi-model applications, with plans from $19/month and 50 free trial requests.                                                |                                                                                       |                                                                                                                                                                                                                      |
 
 ---
 

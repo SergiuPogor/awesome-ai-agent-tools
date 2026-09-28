@@ -22,7 +22,7 @@
 
 ---
 
-**650** installable components across **8** categories. Every entry is sourced from real projects with provenance and install commands. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
+**662** installable components across **8** categories. Every entry is sourced from real projects with provenance and install commands. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
 
 ## Contents
 
@@ -46,26 +46,26 @@
 - Design: 11
 - DevOps: 8
 - Marketing: 6
+- Data: 5
 - Testing: 4
-- Data: 4
 - Security: 2
 
 ## MCPs
 
-- Developer Tools: 15
+- Developer Tools: 16
 - AI & Machine Learning: 15
 - Databases: 13
+- Search: 12
 - Agent Orchestration: 12
-- Search: 11
-- Communication: 10
+- Communication: 11
 - DevOps: 9
-- Security: 7
+- Security: 8
 - Official Reference: 6
 - Browser Automation: 6
 - Cloud Platforms: 6
 - Monitoring: 6
-- Research & Data: 5
-- Marketing: 4
+- Research & Data: 6
+- Marketing: 5
 - Design: 4
 - Finance: 4
 - Blockchain: 3
@@ -104,8 +104,8 @@
 
 ## Plugins
 
-- Claude Code: 10
-- OpenCode: 9
+- Claude Code: 11
+- OpenCode: 10
 - Cross-Tool: 7
 - Cursor: 6
 - VS Code AI: 6
@@ -136,7 +136,7 @@
 
 ## Tools
 
-- AI Coding CLIs: 13
+- AI Coding CLIs: 15
 - Code Analysis: 9
 - Cloud & DevOps: 7
 - Git Utilities: 6
@@ -149,19 +149,20 @@
 - Monitoring: 4
 - Agent Memory: 3
 - Terminal Enhancement: 3
+- AI APIs: 1
 
 ## Quick Stats
 
 | Library         | Count | Description                                                                 | Folder                   |
 | --------------- | ----- | --------------------------------------------------------------------------- | ------------------------ |
-| **Skills**      | 101   | Reusable AI agent skills following the SKILL.md standard                    | [skills/](skills/)       |
-| **MCPs**        | 140   | Curated Model Context Protocol servers for AI-assisted development          | [mcps/](mcps/)           |
+| **Skills**      | 102   | Reusable AI agent skills following the SKILL.md standard                    | [skills/](skills/)       |
+| **MCPs**        | 146   | Curated Model Context Protocol servers for AI-assisted development          | [mcps/](mcps/)           |
 | **Agent Loops** | 115   | Repeatable AI-agent workflows with feedback loops                           | [loops/](loops/)         |
 | **Subagents**   | 34    | Specialized agent definitions with model routing                            | [subagents/](subagents/) |
 | **Hooks**       | 25    | Production-ready Claude Code hooks for security, automation, and quality    | [hooks/](hooks/)         |
-| **Plugins**     | 55    | Extensions for Claude Code, OpenCode, Cursor, and 6 more platforms          | [plugins/](plugins/)     |
+| **Plugins**     | 57    | Extensions for Claude Code, OpenCode, Cursor, and 6 more platforms          | [plugins/](plugins/)     |
 | **Prompts**     | 103   | Curated prompt collections and marketplaces for AI coding agents            | [prompts/](prompts/)     |
-| **Tools**       | 77    | Essential CLI tools and utilities that enhance AI coding agent capabilities | [tools/](tools/)         |
+| **Tools**       | 80    | Essential CLI tools and utilities that enhance AI coding agent capabilities | [tools/](tools/)         |
 
 All data comes from `catalog.json` files in each folder. These catalogs are the single source of truth for programmatic discovery. Contributions welcome -- see Contributing below.
 
