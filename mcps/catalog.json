@@ -4,7 +4,7 @@
   "description": "Curated Model Context Protocol servers for AI-assisted development",
   "license": "MIT",
   "lastUpdated": "2026-09-30",
-  "totalServers": 148,
+  "totalServers": 147,
   "categories": [
     {
       "name": "Official Reference",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Communication",
-      "count": 12
+      "count": 11
     },
     {
       "name": "Search",
@@ -859,23 +859,6 @@
         "marketing",
         "email",
         "campaigns"
-      ]
-    },
-    {
-      "id": "linear",
-      "name": "Linear MCP",
-      "category": "Communication",
-      "github": "https://github.com/linear/mcp-server",
-      "stars": 2500,
-      "description": "Issue tracking, project management, and team coordination via Linear",
-      "install": "Available via Linear documentation",
-      "license": "MIT",
-      "verified": true,
-      "tags": [
-        "linear",
-        "issues",
-        "projects",
-        "team"
       ]
     },
     {
