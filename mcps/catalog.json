@@ -4,7 +4,7 @@
   "description": "Curated Model Context Protocol servers for AI-assisted development",
   "license": "MIT",
   "lastUpdated": "2026-10-01",
-  "totalServers": 147,
+  "totalServers": 148,
   "categories": [
     {
       "name": "Official Reference",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Cloud Platforms",
-      "count": 6
+      "count": 7
     },
     {
       "name": "DevOps",
@@ -2057,7 +2057,7 @@
       "category": "Blockchain",
       "github": "https://github.com/vbkotecha/aiservices-api",
       "stars": 0,
-      "description": "Paid data APIs for AI agents — crypto prices, DeFi yields, on-chain analytics, whale tracking, market intelligence via x402 nanopayments",
+      "description": "Paid data APIs for AI agents \u2014 crypto prices, DeFi yields, on-chain analytics, whale tracking, market intelligence via x402 nanopayments",
       "install": "Remote endpoint: https://agentservices.to/mcp",
       "license": "MIT",
       "verified": true,
@@ -2718,6 +2718,23 @@
         "image-generation",
         "video-generation",
         "music",
+        "remote"
+      ]
+    },
+    {
+      "id": "kleap",
+      "name": "Kleap",
+      "category": "Cloud Platforms",
+      "github": "https://github.com/kleaphq/cli",
+      "stars": 1,
+      "description": "Hosted MCP to create, edit, and publish websites (26 tools).",
+      "install": "Remote OAuth https://kleap.co/api/mcp (also npx -y kleap-cli)",
+      "license": "MIT",
+      "verified": false,
+      "tags": [
+        "websites",
+        "hosting",
+        "oauth",
         "remote"
       ]
     }

@@ -16,7 +16,7 @@ Curated Model Context Protocol servers for AI-assisted development
 - **Security** (8)
 - **Official Reference** (6)
 - **Browser Automation** (6)
-- **Cloud Platforms** (6)
+- **Cloud Platforms** (7)
 - **Monitoring** (6)
 - **Research & Data** (6)
 - **Marketing** (5)
@@ -27,7 +27,7 @@ Curated Model Context Protocol servers for AI-assisted development
 - **Data Engineering** (1)
 - **Mobile** (1)
 
-## All 146 mcps
+## All 147 mcps
 
 | Name                              | Category              | Description                                                                                                                                                                                                                                                                         | Source                                                                                                                | Badges                                                                                                                                                                                                                                               |
 | --------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -181,3 +181,4 @@ Curated Model Context Protocol servers for AI-assisted development
 ---
 
 Machine-readable data: [catalog.json](catalog.json)
+| Kleap | Cloud Platforms | Hosted MCP to create, edit, and publish websites (26 tools). | [kleaphq/cli](https://github.com/kleaphq/cli) | ![Stars](https://img.shields.io/github/stars/kleaphq/cli?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/kleaphq/cli?style=flat) |
