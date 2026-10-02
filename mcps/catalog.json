@@ -4,7 +4,7 @@
   "description": "Curated Model Context Protocol servers for AI-assisted development",
   "license": "MIT",
   "lastUpdated": "2026-10-01",
-  "totalServers": 148,
+  "totalServers": 149,
   "categories": [
     {
       "name": "Official Reference",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Marketing",
-      "count": 5
+      "count": 6
     },
     {
       "name": "Data Engineering",
@@ -2737,6 +2737,24 @@
         "oauth",
         "remote"
       ]
+    },
+    {
+      "id": "robot-speed",
+      "name": "Robot Speed",
+      "category": "Marketing",
+      "github": "https://github.com/robot-speed/mcp",
+      "stars": 1,
+      "description": "Hosted SEO and AI-visibility MCP, with a free no-auth tool subset.",
+      "install": "OAuth https://www.robot-speed.com/api/mcp ; free no-auth https://www.robot-speed.com/api/mcp/free",
+      "license": "MIT",
+      "verified": false,
+      "tags": [
+        "seo",
+        "marketing",
+        "remote",
+        "oauth"
+      ]
     }
+
   ]
 }

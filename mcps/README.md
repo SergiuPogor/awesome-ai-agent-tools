@@ -19,7 +19,7 @@ Curated Model Context Protocol servers for AI-assisted development
 - **Cloud Platforms** (7)
 - **Monitoring** (6)
 - **Research & Data** (6)
-- **Marketing** (5)
+- **Marketing** (6)
 - **Design** (4)
 - **Finance** (4)
 - **Blockchain** (3)
@@ -27,7 +27,7 @@ Curated Model Context Protocol servers for AI-assisted development
 - **Data Engineering** (1)
 - **Mobile** (1)
 
-## All 147 mcps
+## All 148 mcps
 
 | Name                              | Category              | Description                                                                                                                                                                                                                                                                         | Source                                                                                                                | Badges                                                                                                                                                                                                                                               |
 | --------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -182,3 +182,4 @@ Curated Model Context Protocol servers for AI-assisted development
 
 Machine-readable data: [catalog.json](catalog.json)
 | Kleap | Cloud Platforms | Hosted MCP to create, edit, and publish websites (26 tools). | [kleaphq/cli](https://github.com/kleaphq/cli) | ![Stars](https://img.shields.io/github/stars/kleaphq/cli?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/kleaphq/cli?style=flat) |
+| Robot Speed | Marketing | Hosted SEO and AI-visibility MCP, with a free no-auth tool subset. | [robot-speed/mcp](https://github.com/robot-speed/mcp) | ![Stars](https://img.shields.io/github/stars/robot-speed/mcp?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/robot-speed/mcp?style=flat) |
