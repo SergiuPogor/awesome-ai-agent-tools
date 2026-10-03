@@ -2,13 +2,13 @@
 
 Curated Model Context Protocol servers for AI-assisted development
 
-**128** entries across **19** categories.
+**129** entries across **19** categories.
 
 ## Categories
 
 - **Developer Tools** (15)
 - **AI & Machine Learning** (13)
-- **Agent Orchestration** (12)
+- **Agent Orchestration** (13)
 - **Databases** (10)
 - **Communication** (10)
 - **Search** (10)
@@ -26,7 +26,7 @@ Curated Model Context Protocol servers for AI-assisted development
 - **Data Engineering** (1)
 - **Mobile** (1)
 
-## All 128 mcps
+## All 129 mcps
 
 | Name                              | Category              | Description                                                                                                                                                                                                                                                                         | Source                                                                                                                | Badges                                                                                                                                                                                                                                               |
 | --------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -158,6 +158,7 @@ Curated Model Context Protocol servers for AI-assisted development
 | Kleap                             | Cloud Platforms       | Hosted MCP to create, edit, and publish websites (26 tools).                                                                                                                                                                                                                        | [kleaphq/cli](https://github.com/kleaphq/cli)                                                                         | ![Stars](https://img.shields.io/github/stars/kleaphq/cli?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/kleaphq/cli?style=flat)                                                                         |
 | Robot Speed                       | Marketing             | Hosted SEO and AI-visibility MCP, with a free no-auth tool subset.                                                                                                                                                                                                                  | [robot-speed/mcp](https://github.com/robot-speed/mcp)                                                                 | ![Stars](https://img.shields.io/github/stars/robot-speed/mcp?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/robot-speed/mcp?style=flat)                                                                 |
 | PlaceCall                         | Communication         | Hosted MCP where an AI agent places real phone calls to US businesses and returns outcome and transcript.                                                                                                                                                                           | `voygr-tech/placecall`                                                                                                | ![Stars](https://img.shields.io/github/stars/voygr-tech/placecall?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/voygr-tech/placecall?style=flat)                                                       |
+| Tale                              | Agent Orchestration   | Self-hosted workspace MCP for knowledge retrieval and automation authoring, testing, and execution                                                                                                                                                                                  | [tale-project/tale](https://github.com/tale-project/tale)                                                             | ![Stars](https://img.shields.io/github/stars/tale-project/tale?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/tale-project/tale?style=flat)                                                             |
 
 ---
 

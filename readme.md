@@ -9,7 +9,7 @@ Installable components for AI coding assistants -- skills, MCP servers, agent lo
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/michielhdoteth/awesome-ai-agent-tools?style=flat-square&label=Stars&color=gold)](https://github.com/michielhdoteth/awesome-ai-agent-tools/stargazers)
 
-**592** installable components across **8** categories. Every entry is sourced from a real open-source project. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
+**593** installable components across **8** categories. Every entry is sourced from a real open-source project. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
 
 ## Contents
 
@@ -38,7 +38,7 @@ Full catalog: [skills/](skills/) · [catalog.json](skills/catalog.json)
 
 ## MCPs
 
-128 mcps across 19 categories: Developer Tools (15) · AI & Machine Learning (13) · Agent Orchestration (12) · Databases (10) · Communication (10) · Search (10) · DevOps (8) · Official Reference (6) · Security (6) · Research & Data (6) · Browser Automation (5) · Cloud Platforms (5) · Marketing (5) · Monitoring (5) · Finance (4) · Design (3) · Blockchain (3) · Data Engineering (1) · Mobile (1)
+129 mcps across 19 categories: Developer Tools (15) · AI & Machine Learning (13) · Agent Orchestration (13) · Databases (10) · Communication (10) · Search (10) · DevOps (8) · Official Reference (6) · Security (6) · Research & Data (6) · Browser Automation (5) · Cloud Platforms (5) · Marketing (5) · Monitoring (5) · Finance (4) · Design (3) · Blockchain (3) · Data Engineering (1) · Mobile (1)
 
 Full catalog: [mcps/](mcps/) · [catalog.json](mcps/catalog.json)
 
