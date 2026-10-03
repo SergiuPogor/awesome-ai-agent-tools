@@ -9,15 +9,15 @@ description: >
 
 # Awesome AI Agent Tools
 
-> The most comprehensive open-source library for AI agent skills, MCP servers, and agent workflows.
+> Installable AI agent components for coding assistants: skills, MCP servers, agent workflows, subagents, hooks, plugins, prompts, and CLI tools.
 
 ## What This Skill Does
 
 This skill teaches you how to install and use resources from the [Awesome AI Agent Tools](https://github.com/michielhdoteth/awesome-ai-agent-tools) collection. It covers three types of resources:
 
-1. **Skills** (69 files) - Reusable SKILL.md instruction sets for specific tasks
-2. **MCP Servers** (66 configs) - Model Context Protocol servers for tool integration
-3. **Agent Loops** (73 workflows) - Repeatable patterns with prompts and verification
+1. **Skills** - Reusable SKILL.md instruction sets for specific tasks
+2. **MCP Servers** - Model Context Protocol servers for tool integration
+3. **Agent Loops** - Repeatable patterns with prompts and verification
 
 ## When to Use
 

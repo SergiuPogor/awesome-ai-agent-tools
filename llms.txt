@@ -1,10 +1,10 @@
 # Awesome AI Agent Tools
 
-> The most comprehensive open-source library for AI agent skills, MCP servers, and agent workflows. 593 installable components across 8 categories -- skills, MCPs, loops, subagents, hooks, plugins, prompts, and tools -- curated from 100+ repositories. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
+> Installable AI agent components for coding assistants: skills, MCP servers, agent workflows, subagents, hooks, plugins, prompts, and CLI tools. 593 components across 8 categories, curated from 100+ repositories. Works with Claude Code, OpenCode, Codex, Cursor, Gemini CLI, Copilot, and 30+ AI coding assistants.
 
 ## Overview
 
-Awesome AI Agent Tools is the largest open-source collection of installable components for AI coding assistants. Every item is sourced from real projects with provenance and install commands -- no hallucinated or synthetic entries.
+Awesome AI Agent Tools is an open-source collection of installable components for AI coding assistants. Every item is sourced from a real project with provenance and an install command -- no hallucinated or synthetic entries.
 
 The library covers the full AI agent stack: skills (SKILL.md files), MCP servers, agent workflow loops, subagent definitions, hooks, plugins, prompts, and CLI tools. Each category includes a JSON catalog for programmatic discovery and a human-readable directory. Components are tagged by platform, category, and source.
 
