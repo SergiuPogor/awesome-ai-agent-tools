@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "totalHooks": 25,
+    "totalHooks": 23,
     "lastUpdated": "2026-07-13",
     "sources": [
       "https://github.com/karanb192/claude-code-hooks",
@@ -10,7 +10,7 @@
     "categories": [
       {
         "name": "Security",
-        "count": 5
+        "count": 4
       },
       {
         "name": "Automation",
@@ -35,10 +35,6 @@
       {
         "name": "Utility",
         "count": 3
-      },
-      {
-        "name": "Platform Feature",
-        "count": 1
       }
     ]
   },
@@ -60,7 +56,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/karanb192/claude-code-hooks"
     },
     {
       "id": "protect-secrets",
@@ -80,7 +77,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/karanb192/claude-code-hooks"
     },
     {
       "id": "secret-scanner",
@@ -100,26 +98,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
-    },
-    {
-      "id": "branch-guard",
-      "name": "Branch Guard",
-      "category": "Security",
-      "description": "Blocks direct changes on main/master branch to prevent accidental pushes",
-      "eventType": "PreToolUse",
-      "matcher": "Bash",
-      "script": "branch-guard.js",
-      "language": "node",
-      "stars": 425,
-      "tags": [
-        "security",
-        "git",
-        "branch-protection"
-      ],
-      "source": "github",
-      "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "auto-stage",
@@ -138,7 +118,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/karanb192/claude-code-hooks"
     },
     {
       "id": "auto-test",
@@ -157,7 +138,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "lint-fix",
@@ -176,7 +158,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "type-check",
@@ -195,7 +178,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "post-edit-check",
@@ -214,7 +198,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "suggest-compact",
@@ -233,7 +218,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "commit-guard",
@@ -252,7 +238,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "notify-permission",
@@ -271,7 +258,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/karanb192/claude-code-hooks"
     },
     {
       "id": "notification-log",
@@ -290,7 +278,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "session-start",
@@ -309,7 +298,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "session-end",
@@ -328,7 +318,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "context-loader",
@@ -347,7 +338,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "pre-compact",
@@ -366,7 +358,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "pre-push-check",
@@ -385,7 +378,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "block-dev-server",
@@ -405,7 +399,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "smart-approve",
@@ -424,7 +419,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "event-logger",
@@ -444,7 +440,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/karanb192/claude-code-hooks"
     },
     {
       "id": "stop-check",
@@ -464,7 +461,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-06"
+      "lastUpdated": "2026-07-06",
+      "github": "https://github.com/rohitg00/awesome-claude-code-toolkit"
     },
     {
       "id": "lasso-security-prompt-injection",
@@ -484,7 +482,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-13"
+      "lastUpdated": "2026-07-13",
+      "github": "https://github.com/lasso-security/claude-hooks"
     },
     {
       "id": "awesome-claude-code-hooks",
@@ -504,28 +503,8 @@
       ],
       "source": "github",
       "sourceType": "community",
-      "lastUpdated": "2026-07-13"
-    },
-    {
-      "id": "copilot-agent-hooks",
-      "name": "GitHub Copilot Agent Hooks",
-      "category": "Platform Feature",
-      "description": "Native Stop hook event in GitHub Copilot Extensions API for pre/post-completion hooks. First-class hook support in GitHub's AI coding tool.",
-      "eventType": "Stop",
-      "matcher": "copilot",
-      "script": "copilot-hooks-api",
-      "language": "api",
-      "websiteUrl": "https://docs.github.com/en/copilot/extensions",
-      "stars": null,
-      "tags": [
-        "copilot",
-        "github",
-        "platform",
-        "hooks-api"
-      ],
-      "source": "docs",
-      "sourceType": "official",
-      "lastUpdated": "2026-07-13"
+      "lastUpdated": "2026-07-13",
+      "github": "https://github.com/ithiria894/awesome-claude-code-hooks"
     }
   ]
 }

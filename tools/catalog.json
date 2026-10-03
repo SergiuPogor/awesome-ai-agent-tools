@@ -4,7 +4,7 @@
   "description": "Essential CLI tools and utilities that enhance AI coding agent capabilities",
   "license": "MIT",
   "lastUpdated": "2026-10-02",
-  "totalTools": 83,
+  "totalTools": 79,
   "categories": [
     {
       "name": "Code Analysis",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Cloud & DevOps",
-      "count": 8
+      "count": 7
     },
     {
       "name": "AI Coding CLIs",
-      "count": 16
+      "count": 14
     },
     {
       "name": "Agent Memory",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Database CLIs",
-      "count": 5
+      "count": 4
     },
     {
       "name": "API Testing",
@@ -199,7 +199,7 @@
       "name": "Gitui",
       "category": "Git Utilities",
       "description": "Blazing fast terminal-ui for git written in Rust.",
-      "url": "https://github.com/extrawurst/gitui",
+      "url": "https://github.com/gitui-org/gitui",
       "stars": 10000,
       "crossPlatform": true,
       "install": "brew install gitui"
@@ -279,7 +279,7 @@
       "name": "Podman",
       "category": "Docker & Containers",
       "description": "Daemonless container engine. Rootless, OCI-compatible Docker alternative.",
-      "url": "https://github.com/containers/podman",
+      "url": "https://github.com/podman-container-tools/podman",
       "stars": 30000,
       "crossPlatform": true,
       "install": "brew install podman"
@@ -365,16 +365,6 @@
       "install": "brew install awscli"
     },
     {
-      "id": "gcloud",
-      "name": "gcloud CLI",
-      "category": "Cloud & DevOps",
-      "description": "Google Cloud command-line interface.",
-      "url": "https://github.com/googlecloudsdk/gcloud_cli",
-      "stars": 5000,
-      "crossPlatform": true,
-      "install": "brew install --cask google-cloud-sdk"
-    },
-    {
       "id": "foac",
       "name": "foac",
       "category": "Cloud & DevOps",
@@ -429,20 +419,10 @@
       "name": "Aider",
       "category": "AI Coding CLIs",
       "description": "AI pair programming in your terminal. Works with GPT-4, Claude, local models.",
-      "url": "https://github.com/paul-gauthier/aider",
+      "url": "https://github.com/Aider-AI/aider",
       "stars": 42000,
       "crossPlatform": true,
       "install": "pip install aider-chat"
-    },
-    {
-      "id": "opencode",
-      "name": "OpenCode",
-      "category": "AI Coding CLIs",
-      "description": "Open-source AI coding agent. Multi-model support.",
-      "url": "https://github.com/opencode-ai/opencode",
-      "stars": 25000,
-      "crossPlatform": true,
-      "install": "npm install -g opencode"
     },
     {
       "id": "continue",
@@ -459,20 +439,10 @@
       "name": "Cursor",
       "category": "AI Coding CLIs",
       "description": "AI-first code editor. Fork of VS Code with AI superpowers.",
-      "url": "https://github.com/getcursor/cursor",
+      "url": "https://github.com/cursor/cursor",
       "stars": 35000,
       "crossPlatform": true,
       "install": "Download from cursor.com"
-    },
-    {
-      "id": "codeium",
-      "name": "Codeium / Windsurf",
-      "category": "AI Coding CLIs",
-      "description": "Free AI code completion and chat. Now Devin Desktop.",
-      "url": "https://github.com/Exafunction/codeium.vsix",
-      "stars": 8000,
-      "crossPlatform": true,
-      "install": "Install from VS Code marketplace"
     },
     {
       "id": "codex-profiles",
@@ -593,16 +563,6 @@
       "stars": 9000,
       "crossPlatform": true,
       "install": "brew install usql"
-    },
-    {
-      "id": "peppermint",
-      "name": "Peppermint",
-      "category": "Database CLIs",
-      "description": "Modern database client with AI-powered query assistance.",
-      "url": "https://github.com/peppermint-tech/peppermint",
-      "stars": 2000,
-      "crossPlatform": true,
-      "install": "Download from GitHub releases"
     },
     {
       "id": "httpie",
