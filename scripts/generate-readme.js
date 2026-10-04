@@ -332,7 +332,7 @@ https://awesome-ai-agent-tools.vercel.app
 
 - [README](readme.md) - Project overview, quick start, and full catalog
 - [contributing.md](contributing.md) - How to add skills, MCPs, or loops
-- [contributing.md](contributing.md) - Human and agent contribution guide
+- contributing.md - Human and agent contribution guide
 - [Skills Library](skills/) - ${skills.count} SKILL.md files across ${skills.categories.length} categories
 - [MCP Servers](mcps/) - ${mcps.count} MCP servers with install commands
 - [Agent Loops](loops/) - ${loops.count} workflow patterns with catalog
@@ -428,7 +428,7 @@ ${categoryDetails}
 We welcome contributions! You can:
 
 1. Manual PR -- fork, add an entry to a \`catalog.json\` file, validate, and submit. See [contributing.md](contributing.md).
-2. Agent-automated -- give your AI agent the [contributing.md](contributing.md) guide and it handles everything.
+2. Agent-automated -- give your AI agent the contributing.md guide and it handles everything.
 3. Open an issue -- suggest a tool we should add.
 
 All data comes from \`catalog.json\` files in each folder. These catalogs are the single source of truth for programmatic discovery.

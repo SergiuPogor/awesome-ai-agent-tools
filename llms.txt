@@ -43,7 +43,7 @@ https://awesome-ai-agent-tools.vercel.app
 
 - [README](readme.md) - Project overview, quick start, and full catalog
 - [contributing.md](contributing.md) - How to add skills, MCPs, or loops
-- [contributing.md](contributing.md) - Human and agent contribution guide
+- contributing.md - Human and agent contribution guide
 - [Skills Library](skills/) - 94 SKILL.md files across 9 categories
 - [MCP Servers](mcps/) - 130 MCP servers with install commands
 - [Agent Loops](loops/) - 103 workflow patterns with catalog
