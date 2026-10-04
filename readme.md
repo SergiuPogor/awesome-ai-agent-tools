@@ -138,7 +138,7 @@ Full catalog: [tools/](tools/) · [catalog.json](tools/catalog.json)
 We welcome contributions! You can:
 
 1. Manual PR -- fork, add an entry to a `catalog.json` file, validate, and submit. See [contributing.md](contributing.md).
-2. Agent-automated -- give your AI agent the [CONTRIBUTE.md](CONTRIBUTE.md) skill and it handles everything.
+2. Agent-automated -- give your AI agent the [contributing.md](contributing.md) guide and it handles everything.
 3. Open an issue -- suggest a tool we should add.
 
 All data comes from `catalog.json` files in each folder. These catalogs are the single source of truth for programmatic discovery.

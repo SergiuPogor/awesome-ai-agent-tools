@@ -325,14 +325,14 @@ https://awesome-ai-agent-tools.vercel.app
 
 - **30+ Platforms Supported**: Claude Code, OpenCode, Codex, KiloCode, Cursor, Gemini CLI, Copilot, Aider, Windsurf, and more
 - **JSON Catalogs**: Every category has a machine-readable catalog for tooling integration
-- **Agent-Contributable**: Add components via CONTRIBUTE.md -- agents can self-contribute
+- **Agent-Contributable**: Add components via contributing.md -- agents can self-contribute
 - **SKILL.md Open Standard**: Skills follow the SKILL.md specification for portability
 
 ## Key Files
 
 - [README](readme.md) - Project overview, quick start, and full catalog
 - [contributing.md](contributing.md) - How to add skills, MCPs, or loops
-- [CONTRIBUTE.md](CONTRIBUTE.md) - Agent-automatable contribution skill
+- [contributing.md](contributing.md) - Human and agent contribution guide
 - [Skills Library](skills/) - ${skills.count} SKILL.md files across ${skills.categories.length} categories
 - [MCP Servers](mcps/) - ${mcps.count} MCP servers with install commands
 - [Agent Loops](loops/) - ${loops.count} workflow patterns with catalog
@@ -428,7 +428,7 @@ ${categoryDetails}
 We welcome contributions! You can:
 
 1. Manual PR -- fork, add an entry to a \`catalog.json\` file, validate, and submit. See [contributing.md](contributing.md).
-2. Agent-automated -- give your AI agent the [CONTRIBUTE.md](CONTRIBUTE.md) skill and it handles everything.
+2. Agent-automated -- give your AI agent the [contributing.md](contributing.md) guide and it handles everything.
 3. Open an issue -- suggest a tool we should add.
 
 All data comes from \`catalog.json\` files in each folder. These catalogs are the single source of truth for programmatic discovery.
