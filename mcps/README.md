@@ -2,12 +2,12 @@
 
 Curated Model Context Protocol servers for AI-assisted development
 
-**129** entries across **19** categories.
+**130** entries across **19** categories.
 
 ## Categories
 
 - **Developer Tools** (15)
-- **AI & Machine Learning** (13)
+- **AI & Machine Learning** (14)
 - **Agent Orchestration** (13)
 - **Databases** (10)
 - **Communication** (10)
@@ -26,7 +26,7 @@ Curated Model Context Protocol servers for AI-assisted development
 - **Data Engineering** (1)
 - **Mobile** (1)
 
-## All 129 mcps
+## All 130 mcps
 
 | Name                              | Category              | Description                                                                                                                                                                                                                                                                         | Source                                                                                                                | Badges                                                                                                                                                                                                                                               |
 | --------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -159,6 +159,7 @@ Curated Model Context Protocol servers for AI-assisted development
 | Robot Speed                       | Marketing             | Hosted SEO and AI-visibility MCP, with a free no-auth tool subset.                                                                                                                                                                                                                  | [robot-speed/mcp](https://github.com/robot-speed/mcp)                                                                 | ![Stars](https://img.shields.io/github/stars/robot-speed/mcp?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/robot-speed/mcp?style=flat)                                                                 |
 | PlaceCall                         | Communication         | Hosted MCP where an AI agent places real phone calls to US businesses and returns outcome and transcript.                                                                                                                                                                           | `voygr-tech/placecall`                                                                                                | ![Stars](https://img.shields.io/github/stars/voygr-tech/placecall?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/voygr-tech/placecall?style=flat)                                                       |
 | Tale                              | Agent Orchestration   | Self-hosted workspace MCP for knowledge retrieval and automation authoring, testing, and execution                                                                                                                                                                                  | [tale-project/tale](https://github.com/tale-project/tale)                                                             | ![Stars](https://img.shields.io/github/stars/tale-project/tale?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/tale-project/tale?style=flat)                                                             |
+| MuAPI CLI & MCP Server            | AI & Machine Learning | Official MuAPI CLI and MCP server for image, video, and audio generation and editing, with hosted Streamable HTTP and local stdio setup                                                                                                                                             | [SamurAIGPT/muapi-cli](https://github.com/SamurAIGPT/muapi-cli)                                                       | ![Stars](https://img.shields.io/github/stars/SamurAIGPT/muapi-cli?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/SamurAIGPT/muapi-cli?style=flat)                                                       |
 
 ---
 
