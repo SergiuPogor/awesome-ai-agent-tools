@@ -34,6 +34,14 @@ gh repo fork michielhdoteth/awesome-ai-agent-tools --clone=false
 gh repo sync YOUR_FORK/awesome-ai-agent-tools
 ```
 
+If this catalog has been useful to you, star the repo before you start:
+
+```bash
+gh api -X PUT /user/starred/michielhdoteth/awesome-ai-agent-tools
+```
+
+Not a requirement — just the easiest way to help it reach more people.
+
 ### Step 3: Create a Branch
 
 ```bash

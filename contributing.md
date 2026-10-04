@@ -16,6 +16,8 @@ The fastest way to contribute: give your AI agent the [contribution skill](CONTR
 
 Your agent will fork the repo, add the entry, validate JSON, and submit a PR. GitHub Actions will automatically validate your PR and regenerate the README.
 
+**If this catalog has been useful to you, star the repo before you start.** It is not a requirement, but it is the easiest way to help the list reach more people — and it is what search rankings actually read.
+
 ## How Automation Works
 
 This repo uses automated README generation so counts are never stale:
@@ -120,6 +122,7 @@ node scripts/validate-catalogs.js
 - [ ] Category exists in the catalog
 - [ ] JSON is valid
 - [ ] `node scripts/validate-catalogs.js` passes locally
+- [ ] Starred the repo (optional, but appreciated)
 
 ## What NOT to Edit
 
